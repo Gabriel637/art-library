@@ -3,8 +3,9 @@
         "id": 1,
         "name": "Baschiat",
         "full_name": "Jean-Michel Baschiat",
-        "location": "New York, US",
-        "birthday": "New York, US",
+        "color": "#D9B504",
+        "birthplace": "New York, US",
+        "birthdate": "New York, US",
         "image": "/src/assets/basquiat.png",
         "highlight": "/src/assets/basquiat-highlight.jpg",
         "description": "...",
@@ -14,77 +15,28 @@
                 "name": "Baschiat",
                 "url": "https://arts.google.com/arts?id",
                 "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
+                "description": "...",
+                "color": "#D9B504"
             },
             {
                 "id": 11,
                 "name": "Baschiat",
                 "url": "https://arts.google.com/arts?id",
                 "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
+                "description": "...",
+                "color": "#D9B504"
             }
         ]
     },
     {
-        "id": 1,
-        "name": "Baschiat",
-        "full_name": "Jean-Michel Baschiat",
+        "id": 2,
+        "name": "Ocean",
+        "color": "#447647",
+        "full_name": "Christopher 'Frank Ocean' Breaux",
         "location": "New York, US",
         "birthday": "New York, US",
-        "image": "/src/assets/basquiat.png",
-        "highlight": "/src/assets/basquiat-highlight.jpg",
-        "description": "...",
-        "arts": [
-            {
-                "id": 11,
-                "name": "Baschiat",
-                "url": "https://arts.google.com/arts?id",
-                "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
-            },
-            {
-                "id": 11,
-                "name": "Baschiat",
-                "url": "https://arts.google.com/arts?id",
-                "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "Baschiat",
-        "full_name": "Jean-Michel Baschiat",
-        "location": "New York, US",
-        "birthday": "New York, US",
-        "image": "/src/assets/basquiat.png",
-        "highlight": "/src/assets/basquiat-highlight.jpg",
-        "description": "...",
-        "arts": [
-            {
-                "id": 11,
-                "name": "Baschiat",
-                "url": "https://arts.google.com/arts?id",
-                "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
-            },
-            {
-                "id": 11,
-                "name": "Baschiat",
-                "url": "https://arts.google.com/arts?id",
-                "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
-            }
-        ]
-    },
-    {
-        "id": 1,
-        "name": "Baschiat",
-        "full_name": "Jean-Michel Baschiat",
-        "location": "New York, US",
-        "birthday": "New York, US",
-        "image": "/src/assets/basquiat.png",
-        "highlight": "/src/assets/basquiat-highlight.jpg",
+        "image": "/src/assets/ocean.jpeg",
+        "highlight": "/src/assets/ocean-highlight.png",
         "description": "...",
         "arts": [
             {
