@@ -1,0 +1,106 @@
+[
+    {
+        "id": 1,
+        "name": "Baschiat",
+        "full_name": "Jean-Michel Baschiat",
+        "location": "New York, US",
+        "birthday": "New York, US",
+        "image": "/src/assets/basquiat.png",
+        "highlight": "/src/assets/basquiat-highlight.jpg",
+        "description": "...",
+        "arts": [
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            },
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Baschiat",
+        "full_name": "Jean-Michel Baschiat",
+        "location": "New York, US",
+        "birthday": "New York, US",
+        "image": "/src/assets/basquiat.png",
+        "highlight": "/src/assets/basquiat-highlight.jpg",
+        "description": "...",
+        "arts": [
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            },
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Baschiat",
+        "full_name": "Jean-Michel Baschiat",
+        "location": "New York, US",
+        "birthday": "New York, US",
+        "image": "/src/assets/basquiat.png",
+        "highlight": "/src/assets/basquiat-highlight.jpg",
+        "description": "...",
+        "arts": [
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            },
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Baschiat",
+        "full_name": "Jean-Michel Baschiat",
+        "location": "New York, US",
+        "birthday": "New York, US",
+        "image": "/src/assets/basquiat.png",
+        "highlight": "/src/assets/basquiat-highlight.jpg",
+        "description": "...",
+        "arts": [
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            },
+            {
+                "id": 11,
+                "name": "Baschiat",
+                "url": "https://arts.google.com/arts?id",
+                "image": "http://i.ytimg.com/vi/Baschiat",
+                "description": "..."
+            }
+        ]
+    }
+]
