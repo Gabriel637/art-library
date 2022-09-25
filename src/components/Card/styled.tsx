@@ -2,7 +2,8 @@ import styled from 'styled-components';
 
 interface StyledContainerProps {
   image: string;
-  highlight: string;
+  highlight: string | undefined;
+  color: string | undefined;
 }
 
 export const Container = styled.div<StyledContainerProps>`
@@ -21,6 +22,7 @@ export const Container = styled.div<StyledContainerProps>`
   cursor: pointer;
 
   :hover {
+    border: 5px solid ${(props) => props.color};
     background-image: ${(props) => `url(${props.highlight})`};
   }
 `;

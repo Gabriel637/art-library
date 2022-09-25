@@ -10,7 +10,7 @@ const Router: FunctionComponent = () => (
   <Routes>
     <Route path="/" element={<Home />} />
     <Route
-      path="about"
+      path="about/:name"
       element={
         <Suspense fallback={<Spin />}>
           <About />

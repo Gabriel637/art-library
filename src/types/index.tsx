@@ -13,6 +13,7 @@ export interface IArtist {
   birthplace: string;
   birthdate: string;
   image: string;
+  color?: string;
   highlight?: string;
   description: string;
   arts: IArt[];
