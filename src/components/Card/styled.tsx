@@ -31,6 +31,7 @@ export const Title = styled.h1`
   color: #ffffff;
   position: absolute;
   text-transform: uppercase;
+  font-family: 'Amatic SC';
   bottom: 0;
   margin-bottom: 0;
   background-color: #000000;

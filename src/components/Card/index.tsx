@@ -8,7 +8,7 @@ interface CardProps {
   color?: string | undefined;
 }
 
-const Card = ({ name, image, highlight = '', color = '' }: CardProps) => (
+const Card = ({ name, image, highlight = image, color = '#fff' }: CardProps) => (
   <Container image={image} highlight={highlight} color={color}>
     <Title>{name}</Title>
   </Container>
