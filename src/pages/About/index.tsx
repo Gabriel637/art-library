@@ -1,6 +1,15 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
-import { Container, Title, UserContainer, UserImage, UserInfo, Content, InfoItem } from './styled';
+import {
+  Container,
+  Title,
+  UserContainer,
+  UserImage,
+  UserInfo,
+  Content,
+  InfoItem,
+  ContentContainer,
+} from './styled';
 import Card from '../../components/Card';
 import { IArtist, IArt } from '../../types';
 import data from '../../assets/data.json';
@@ -21,8 +30,8 @@ const About = () => {
   });
 
   useEffect(() => {
-    const currentArtist = data.filter((item) => item.name === params.name);
-    setArtist(currentArtist[0]);
+    const currentArtist = data.find((item) => item.name === params.name);
+    setArtist(currentArtist);
   }, [params.name]);
 
   return (
@@ -31,19 +40,22 @@ const About = () => {
         <UserImage src={artist.image} />
         <UserInfo>
           <Title>{artist.name}</Title>
-          <InfoItem>{artist.birthdate}</InfoItem>
-          <InfoItem>{artist.birthplace}</InfoItem>
+          <InfoItem>{artist.full_name}</InfoItem>
+          <InfoItem>
+            {artist.birthdate}, {artist.birthplace}
+          </InfoItem>
           <InfoItem>{artist.description}</InfoItem>
         </UserInfo>
       </UserContainer>
-      <button onClick={() => setArtist(data[0])}>dsadsads</button>
-      {artist.arts && artist.arts.length > 0 && (
-        <Content>
-          {artist.arts.map((art: IArt) => (
-            <Card name={art.name} image={art.image} />
-          ))}
-        </Content>
-      )}
+      <ContentContainer>
+        {artist.arts && artist.arts.length > 0 && (
+          <Content>
+            {artist.arts.map((art: IArt) => (
+              <Card name={art.name} image={art.image} />
+            ))}
+          </Content>
+        )}
+      </ContentContainer>
     </Container>
   );
 };

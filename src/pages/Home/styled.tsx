@@ -20,4 +20,5 @@ export const Content = styled.div`
 export const Title = styled.div`
   font-size: 40px;
   color: #ffffff;
+  font-family: 'Amatic SC';
 `;
