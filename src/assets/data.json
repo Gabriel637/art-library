@@ -1,82 +1,82 @@
 [
-    {
-        "id": 1,
-        "name": "Baschiat",
-        "full_name": "Jean-Michel Baschiat",
-        "color": "#D9B504",
-        "birthplace": "New York, US",
-        "birthdate": "10/22/1960",
-        "image": "/src/assets/basquiat.png",
-        "highlight": "/src/assets/basquiat-highlight.jpg",
-        "description": "Basquiat first achieved fame as part of the graffiti duo SAMO, alongside Al Diaz, writing enigmatic epigrams in the cultural hotbed of Manhattan's Lower East Side during the late 1970s, where rap, punk, and street art coalesced into early hip-hop music culture. At 21, Basquiat became the youngest artist to ever take part in documenta in Kassel. At 22, he was one of the youngest to exhibit at the Whitney Biennial in New York.",
-        "arts": [
-            {
-                "id": 11,
-                "name": "Untitled",
-                "url": "https://arts.google.com/arts?id",
-                "image": "/src/assets/basquiat-1.jpg",
-                "description": "...",
-                "color": "#D9B504"
-            },
-            {
-                "id": 11,
-                "name": "Untitled",
-                "url": "https://arts.google.com/arts?id",
-                "image": "/src/assets/basquiat-1.jpg",
-                "description": "...",
-                "color": "#D9B504"
-            },
-            {
-                "id": 11,
-                "name": "Untitled",
-                "url": "https://arts.google.com/arts?id",
-                "image": "/src/assets/basquiat-1.jpg",
-                "description": "...",
-                "color": "#D9B504"
-            },
-            {
-                "id": 11,
-                "name": "Untitled",
-                "url": "https://arts.google.com/arts?id",
-                "image": "/src/assets/basquiat-1.jpg",
-                "description": "...",
-                "color": "#D9B504"
-            },
-            {
-                "id": 11,
-                "name": "Untitled",
-                "url": "https://arts.google.com/arts?id",
-                "image": "/src/assets/basquiat-1.jpg",
-                "description": "...",
-                "color": "#D9B504"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "name": "Ocean",
-        "color": "#447647",
-        "full_name": "Christopher 'Frank Ocean' Breaux",
-        "location": "New York, US",
-        "birthday": "New York, US",
-        "image": "/src/assets/ocean.jpeg",
-        "highlight": "/src/assets/ocean-highlight.png",
+  {
+    "id": 1,
+    "name": "Baschiat",
+    "full_name": "Jean-Michel Baschiat",
+    "color": "#D9B504",
+    "birthplace": "New York, US",
+    "birthdate": "10/22/1960",
+    "image": "/src/assets/basquiat.png",
+    "highlight": "/src/assets/basquiat-highlight.jpg",
+    "description": "Basquiat first achieved fame as part of the graffiti duo SAMO, alongside Al Diaz, writing enigmatic epigrams in the cultural hotbed of Manhattan's Lower East Side during the late 1970s, where rap, punk, and street art coalesced into early hip-hop music culture. At 21, Basquiat became the youngest artist to ever take part in documenta in Kassel. At 22, he was one of the youngest to exhibit at the Whitney Biennial in New York.",
+    "arts": [
+      {
+        "id": 11,
+        "name": "Untitled",
+        "url": "https://arts.google.com/arts?id",
+        "image": "/src/assets/basquiat-1.jpg",
         "description": "...",
-        "arts": [
-            {
-                "id": 11,
-                "name": "Baschiat",
-                "url": "https://arts.google.com/arts?id",
-                "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
-            },
-            {
-                "id": 11,
-                "name": "Baschiat",
-                "url": "https://arts.google.com/arts?id",
-                "image": "http://i.ytimg.com/vi/Baschiat",
-                "description": "..."
-            }
-        ]
-    }
+        "color": "#D9B504"
+      },
+      {
+        "id": 11,
+        "name": "Untitled",
+        "url": "https://arts.google.com/arts?id",
+        "image": "/src/assets/basquiat-1.jpg",
+        "description": "...",
+        "color": "#D9B504"
+      },
+      {
+        "id": 11,
+        "name": "Untitled",
+        "url": "https://arts.google.com/arts?id",
+        "image": "/src/assets/basquiat-1.jpg",
+        "description": "...",
+        "color": "#D9B504"
+      },
+      {
+        "id": 11,
+        "name": "Untitled",
+        "url": "https://arts.google.com/arts?id",
+        "image": "/src/assets/basquiat-1.jpg",
+        "description": "...",
+        "color": "#D9B504"
+      },
+      {
+        "id": 11,
+        "name": "Untitled",
+        "url": "https://arts.google.com/arts?id",
+        "image": "/src/assets/basquiat-1.jpg",
+        "description": "...",
+        "color": "#D9B504"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ocean",
+    "color": "#447647",
+    "full_name": "Christopher 'Frank Ocean' Breaux",
+    "birthplace": "New York, US",
+    "birthdate": "New York, US",
+    "image": "/src/assets/ocean.jpeg",
+    "highlight": "/src/assets/ocean-highlight.png",
+    "description": "...",
+    "arts": [
+      {
+        "id": 11,
+        "name": "Baschiat",
+        "url": "https://arts.google.com/arts?id",
+        "image": "http://i.ytimg.com/vi/Baschiat",
+        "description": "..."
+      },
+      {
+        "id": 11,
+        "name": "Baschiat",
+        "url": "https://arts.google.com/arts?id",
+        "image": "http://i.ytimg.com/vi/Baschiat",
+        "description": "..."
+      }
+    ]
+  }
 ]

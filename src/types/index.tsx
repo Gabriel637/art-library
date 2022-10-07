@@ -10,10 +10,10 @@ export interface IArtist {
   id: number;
   name: string;
   full_name: string;
+  color?: string;
   birthplace: string;
   birthdate: string;
   image: string;
-  color?: string;
   highlight?: string;
   description: string;
   arts: IArt[];
