@@ -51,6 +51,6 @@ export const UserInfo = styled.div`
 `;
 
 export const InfoItem = styled.span`
-font - size: 14px;
-color: #ffffff;
+  font-size: 14px;
+  color: #ffffff;
 `;

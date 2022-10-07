@@ -4,16 +4,16 @@ import { Routes, Route } from 'react-router-dom';
 
 import Home from './Home';
 
-const About = lazy(() => import('./About'));
+const Artist = lazy(() => import('./Artist'));
 
 const Router: FunctionComponent = () => (
   <Routes>
     <Route path="/" element={<Home />} />
     <Route
-      path="about/:name"
+      path="artist/:name"
       element={
         <Suspense fallback={<Spin />}>
-          <About />
+          <Artist />
         </Suspense>
       }
     />

@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { useParams } from 'react-router-dom';
+import { useParams, Link } from 'react-router-dom';
 import {
   Container,
   Title,
@@ -14,7 +14,7 @@ import Card from '../../components/Card';
 import { IArtist, IArt } from '../../types';
 import data from '../../assets/data.json';
 
-const About = () => {
+const Artist = () => {
   const params = useParams();
   const [artist, setArtist] = useState<IArtist>({
     id: 0,
@@ -30,7 +30,7 @@ const About = () => {
   });
 
   useEffect(() => {
-    const currentArtist = data.find((item) => item.name === params.name);
+    const currentArtist: IArtist = data.find((item) => item.name === params.name);
     setArtist(currentArtist);
   }, [params.name]);
 
@@ -51,7 +51,9 @@ const About = () => {
         {artist.arts && artist.arts.length > 0 && (
           <Content>
             {artist.arts.map((art: IArt) => (
-              <Card name={art.name} image={art.image} />
+              <Link to={`/art/${art.name}`}>
+                <Card name={art.name} image={art.image} />
+              </Link>
             ))}
           </Content>
         )}
@@ -60,4 +62,4 @@ const About = () => {
   );
 };
 
-export default About;
+export default Artist;

@@ -9,7 +9,7 @@ const Home = () => (
     <Title>ART LIBRARY</Title>
     <Content>
       {data.map((artist) => (
-        <Link to={`about/${artist.name}`}>
+        <Link to={`artist/${artist.name}`}>
           <Card
             name={artist.name}
             image={artist.image}
