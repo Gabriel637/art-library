@@ -3,9 +3,9 @@ import { useParams, Link } from 'react-router-dom';
 import {
   Container,
   Title,
-  UserContainer,
-  UserImage,
-  UserInfo,
+  ArtistContainer,
+  ArtistImage,
+  ArtistInfo,
   Content,
   InfoItem,
   ContentContainer,
@@ -30,28 +30,28 @@ const Artist = () => {
   });
 
   useEffect(() => {
-    const currentArtist: IArtist = data.find((item) => item.name === params.name);
+    const currentArtist = data.find((item) => item.name === params.name) as IArtist;
     setArtist(currentArtist);
   }, [params.name]);
 
   return (
     <Container>
-      <UserContainer>
-        <UserImage src={artist.image} />
-        <UserInfo>
+      <ArtistContainer>
+        <ArtistImage src={artist.image} />
+        <ArtistInfo>
           <Title>{artist.name}</Title>
           <InfoItem>{artist.full_name}</InfoItem>
           <InfoItem>
             {artist.birthdate}, {artist.birthplace}
           </InfoItem>
           <InfoItem>{artist.description}</InfoItem>
-        </UserInfo>
-      </UserContainer>
+        </ArtistInfo>
+      </ArtistContainer>
       <ContentContainer>
         {artist.arts && artist.arts.length > 0 && (
           <Content>
             {artist.arts.map((art: IArt) => (
-              <Link to={`/art/${art.name}`}>
+              <Link to={`${art.name}`}>
                 <Card name={art.name} image={art.image} />
               </Link>
             ))}

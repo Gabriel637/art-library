@@ -24,7 +24,7 @@ export const Content = styled.div`
   gap: 50px;
 `;
 
-export const UserContainer = styled.div`
+export const ArtistContainer = styled.div`
   display: flex;
   width: 60%;
   gap: 50px;
@@ -37,12 +37,12 @@ export const ContentContainer = styled.div`
   width: 100vw;
 `;
 
-export const UserImage = styled.img`
+export const ArtistImage = styled.img`
   width: 250px;
   height: 250px;
 `;
 
-export const UserInfo = styled.div`
+export const ArtistInfo = styled.div`
   max-height: 300px;
   display: flex;
   text-align: center;
