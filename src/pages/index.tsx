@@ -5,6 +5,7 @@ import { Routes, Route } from 'react-router-dom';
 import Home from './Home';
 
 const Artist = lazy(() => import('./Artist'));
+const Art = lazy(() => import('./Art'));
 
 const Router: FunctionComponent = () => (
   <Routes>
@@ -14,6 +15,14 @@ const Router: FunctionComponent = () => (
       element={
         <Suspense fallback={<Spin />}>
           <Artist />
+        </Suspense>
+      }
+    />
+    <Route
+      path="artist/:name/:art_name"
+      element={
+        <Suspense fallback={<Spin />}>
+          <Art />
         </Suspense>
       }
     />
