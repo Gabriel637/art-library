@@ -1,12 +1,14 @@
 import styled from 'styled-components';
+import devices from '../../styles/devices';
 
 export const Container = styled.div`
-  width: 100vw;
-  height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 10%;
+  gap: 50px;
+  padding: 20px 0;
   flex-direction: column;
   background-color: black;
 `;
@@ -22,17 +24,29 @@ export const Content = styled.div`
   justify-content: center;
   align-items: center;
   gap: 50px;
+  flex-direction: column;
+
+  @media ${devices.desktop} {
+    flex-direction: row;
+  }
 `;
 
 export const ArtistContainer = styled.div`
   display: flex;
-  width: 60%;
+  flex-direction: column;
+  align-items: center;
   gap: 50px;
-  height: 250px;
+
+  @media ${devices.desktop} {
+    width: 60%;
+    height: 250px;
+    flex-direction: row;
+  }
 `;
 
 export const ContentContainer = styled.div`
   display: flex;
+  align-items: flex-start;
   justify-content: center;
   width: 100vw;
 `;

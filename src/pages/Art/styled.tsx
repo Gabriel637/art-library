@@ -1,13 +1,15 @@
 import styled from 'styled-components';
+import devices from '../../styles/devices';
 
 export const Container = styled.div`
-  width: 100vw;
-  height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: center;
   flex-direction: column;
   background-color: black;
+  padding: 20px;
 `;
 
 export const TitleContainer = styled.div`
@@ -46,8 +48,13 @@ export const ArtContainer = styled.div`
 `;
 
 export const ArtImage = styled.img`
-  max-width: 500px;
-  max-height: 500px;
+  max-width: 300px;
+  max-height: 300px;
+
+  @media ${devices.desktop} {
+    max-width: 500px;
+    max-height: 500px;
+  }
 `;
 
 export const ArtInfo = styled.div`
@@ -60,8 +67,11 @@ export const ArtInfo = styled.div`
 export const InfoDesc = styled.span`
   font-size: 14px;
   color: #ffffff;
-  width: 50%;
   text-align: center;
+
+  @media ${devices.desktop} {
+    width: 50%;
+  }
 `;
 
 export const LinkItem = styled.span`
