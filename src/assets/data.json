@@ -124,5 +124,89 @@
         "description": "AWGE: A creative agency founded by A$AP Rocky. Rules: #1 Never reveal what AWGE means. #2 When in doubt always refer to rule #1. 'It's a place for all inspired people born in 2014 to create authentic connectivity, solutions and content for music, fashion, film / TV and lifestyle industries'."
       }
     ]
+  },
+  {
+    "name": "Rihanna",
+    "color": "#C91E29",
+    "full_name": "Robyn Rihanna Fenty",
+    "birthplace": "Saint Michael, BA",
+    "birthdate": "02/20/1988",
+    "image": "/src/assets/rihanna.jpg",
+    "highlight": "/src/assets/rihanna-highlight.jpg",
+    "description": "Aside from music, Rihanna is known for her involvement in humanitarian causes, entrepreneurial ventures, and the fashion industry. She is the founder of the nonprofit organisation Clara Lionel Foundation, cosmetics brand Fenty Beauty, and the first black woman to head a luxury brand for LVMH. Rihanna has also ventured into acting, appearing in major roles in Battleship, Home, Valerian and the City of a Thousand Planets, and Ocean's 8. She was declared a National Hero of Barbados on the first day of the country's parliamentary republic in 2021, entitling her to the style of 'The Right Excellent' for life.",
+    "arts": [
+      {
+        "name": "ANTI",
+        "url": "https://rihanna.com/music/anti/",
+        "image": "/src/assets/rihanna-1.jpg",
+        "description": "Conceived when Rihanna was experiencing creative struggles and emotional turmoil, Anti features an atmospheric production characterised by lo-fi beats, distorted vocals and downtempo arrangements. The first half consists of bass-heavy tracks, and the second is characterised by textured minimalism. Anti is an alternative R&B, pop and dancehall album, more muted and soulful. Its songs explore eclectic styles spanning hip hop, soul, psychedelic, doo-wop, country, synth-rock and trap."
+      },
+      {
+        "name": "Fenty",
+        "url": "https://youtu.be/tt7gP_IW-1w",
+        "image": "/src/assets/rihanna-2.jpg",
+        "description": "Fenty (stylised as FEИTY) was a fashion house founded by Rihanna under the luxury fashion group LVMH (Moët Hennessy Louis Vuitton). Fenty was founded in 2017[1] and launched in May 2019.[2] The fashion label made Rihanna the first woman and also the first of colour to be added on the LVMH group.[3] Fenty was closed in 2021."
+      },
+      {
+        "name": "Fenty Beauty",
+        "url": "https://fentybeauty.com/",
+        "image": "/src/assets/rihanna-3.jpg",
+        "description": "Rihanna was inspired to create Fenty Beauty & Fenty Skin after years of experimenting with the best-of-the-best in beauty—and still seeing a void in the industry for products that performed across all skin types and tones. Starting with Fenty Beauty foundation, face primer and Gloss Bomb, she launched a makeup line “so that people everywhere would be included,” focusing on a wide range of traditionally hard-to-match skin tones, creating formulas that work for all skin types, and pinpointing universal shades."
+      },
+      {
+        "name": "Guava Island",
+        "url": "https://www.primevideo.com/dp/amzn1.dv.gti.80b4f9ca-e99c-3a02-d796-0ef870f2335d?autoplay=0&ref_=atv_cf_strg_wb",
+        "image": "/src/assets/rihanna-4.jpg",
+        "description": "Guava Island is a 2019 American musical film directed by Hiro Murai (his feature directorial debut) with a screenplay by Stephen Glover from a story by Donald Glover, Stephen Glover, Ibra Ake, Jamal Olori and Fam Udeorji. It stars Donald Glover and Rihanna in the lead roles of Deni and Kofi, respectively, and was first exhibited at the Coachella Festival on April 11, 2019.[1] It was then released on April 13, 2019, by Amazon Studios through Amazon Prime Video for anyone to watch without a subscription for 18 hours before being available to Prime subscribers only."
+      },
+      {
+        "name": "Umbrella",
+        "url": "https://www.youtube.com/watch?v=CvBfHwUxHIk&ab_channel=RihannaVEVO",
+        "image": "/src/assets/rihanna-5.jpg",
+        "description": "A song by Barbadian singer Rihanna from her third studio album, Good Girl Gone Bad (2007). It features American rapper Jay-Z, who co-wrote the song with its producers Tricky Stewart and Kuk Harrell, with additional writing from The-Dream. The song was rejected on twice; originally written with Britney Spears in mind but her label rejected it, and then Mary J. Blige due to Grammy Awards scheduling. 'Umbrella' is a pop, hip hop and R&B song with rock elements, referring to a romantic and platonic relationship and the strength of that relationship."
+      }
+    ]
+  },
+  {
+    "name": "Childish Gambino",
+    "color": "#C91E29",
+    "full_name": "Donald McKinley Glover Jr",
+    "birthplace": "California, US",
+    "birthdate": "09/25/1988",
+    "image": "/src/assets/gambino.jpg",
+    "highlight": "/src/assets/gambino-highlight.jpg",
+    "description": "Also known by his stage name Childish Gambino, is an American actor, rapper, singer, writer, comedian, director, and producer. He portrayed college student Troy Barnes on the NBC sitcom Community. Glover has starred, created and occasionally directs the FX series Atlanta, that has won various accolades, including two Primetime Emmy Awards and two Golden Globe Awards. Following independently released albums and mixtapes, Glover  released his first studio album, Camp, in 2011. In 2013, he followed this with his second album, Because the Internet. Glover's third album, 'Awaken, My Love!' (2016), eventually earned him his first Grammy Award. In 2018, Glover released 'This Is America', which debuted at number-one on the Hot 100, and won four Grammy Awards",
+    "arts": [
+      {
+        "name": "Because The Internet",
+        "url": "https://open.spotify.com/album/0oNWRFO5ENgSQbKXj5vD91",
+        "image": "/src/assets/gambino-1.jpg",
+        "description": "Because the Internet is the second studio album by American recording artist Donald Glover, under the stage name Childish Gambino. It was released on December 10, 2013, by Glassnote Records. The recording process began in 2012 and ended in October 2013. Recording primarily took place at a mansion owned by basketball player Chris Bosh, which Gambino rented. The album features guest appearances from Chance the Rapper, Jhené Aiko, and Azealia Banks, with production primarily handled by Gambino himself, Stefan Ponce, and Ludwig Göransson, among others. Gambino also released a short film titled Clapping for the Wrong Reasons and a 72-page screenplay to go along with the album in promotion of it."
+      },
+      {
+        "name": "Atlanta",
+        "url": "https://www.fxnetworks.com/shows/atlanta",
+        "image": "/src/assets/gambino-2.jpg",
+        "description": "Atlanta is an American comedy-drama television series created by Donald Glover that premiered on September 6, 2016, on FX. The series centers on college dropout and music manager Earnest 'Earn' Marks (Glover) and rapper Paper Boi (Brian Tyree Henry) as they navigate a strange, seemingly otherworldly version of the Atlanta rap scene, examining racism, whiteness, existentialism and modern African-American culture through Afro-Surrealism. It also stars Lakeith Stanfield and Zazie Beetz."
+      },
+      {
+        "name": "Solo",
+        "url": "https://www.disneyplus.com/video/e42a76aa-2805-43bf-81ec-d5a853b498d0",
+        "image": "/src/assets/gambino-3.jpg",
+        "description": "Solo: A Star Wars Story (also known simply as Solo) is a 2018 American space Western film centering on the Star Wars character Han Solo. Directed by Ron Howard, produced by Lucasfilm, and distributed by Walt Disney Studios Motion Pictures, it is the second Star Wars anthology film, following Rogue One (2016). Alden Ehrenreich stars as Solo, with Woody Harrelson, Emilia Clarke, Donald Glover, Thandiwe Newton, Phoebe Waller-Bridge, Joonas Suotamo and Paul Bettany. The film explores the early adventures of Han Solo and Chewbacca, who join a heist within the criminal underworld 10 years prior to the events of the original Star Wars."
+      },
+      {
+        "name": "Awaken, my love!",
+        "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8",
+        "image": "/src/assets/gambino-4.png",
+        "description": "the third studio album by American recording artist Donald Glover, under his stage name Childish Gambino. It was released by Glassnote Records on December 2, 2016. Consisting of tracks being sung rather than rapped, its fusion of psychedelic soul, funk and R&B influences was considered a bold departure from the predominantly hip hop style of his prior work. The album was produced by Glover and his longtime collaborator, Ludwig Göransson.'Awaken, My Love!' received generally positive reviews from critics and debuted at number five on the US Billboard 200."
+      },
+      {
+        "name": "Community",
+        "url": "https://www.netflix.com/watch/70155589?",
+        "image": "/src/assets/gambino-5.jpg",
+        "description": "Community is an American television sitcom created by Dan Harmon. The series ran for 110 episodes over six seasons, with its first five seasons airing on NBC from September 17, 2009, to April 17, 2014, and its final season airing on Yahoo! Screen from March 17 to June 2, 2015. Set at a community college in the fictional Colorado town of Greendale, the series stars an ensemble cast consisting of Joel McHale, Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Alison Brie, Donald Glover, Ken Jeong, Chevy Chase, and Jim Rash. It makes use of meta-humor and pop culture references, paying homage to film and television clichés and tropes."
+      }
+    ]
   }
 ]
