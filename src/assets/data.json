@@ -1,8 +1,7 @@
 [
   {
-    "id": 1,
-    "name": "Baschiat",
-    "full_name": "Jean-Michel Baschiat",
+    "name": "Basquiat",
+    "full_name": "Jean-Michel Basquiat",
     "color": "#D9B504",
     "birthplace": "New York, US",
     "birthdate": "10/22/1960",
@@ -11,71 +10,76 @@
     "description": "Basquiat first achieved fame as part of the graffiti duo SAMO, alongside Al Diaz, writing enigmatic epigrams in the cultural hotbed of Manhattan's Lower East Side during the late 1970s, where rap, punk, and street art coalesced into early hip-hop music culture. At 21, Basquiat became the youngest artist to ever take part in documenta in Kassel. At 22, he was one of the youngest to exhibit at the Whitney Biennial in New York.",
     "arts": [
       {
-        "id": 11,
-        "name": "Untitled",
-        "url": "https://arts.google.com/arts?id",
+        "name": "Untitled II",
+        "url": "https://www.jean-michel-basquiat.org/untitled-ii-1982/",
         "image": "/src/assets/basquiat-1.jpg",
-        "description": "...",
-        "color": "#D9B504"
+        "description": "An acrylic painting on canvas painting that Jean-Michel Basquiat did in 1982. The American painter later sold the artwork to a Japanese billionaire called YusakuMaezawa at a whopping $110.5 million. Today, the painting is held on loan at the Brooklyn Museum and displayed at the Seattle Museum."
       },
       {
-        "id": 11,
-        "name": "Untitled",
-        "url": "https://arts.google.com/arts?id",
-        "image": "/src/assets/basquiat-1.jpg",
-        "description": "...",
-        "color": "#D9B504"
+        "name": "Skull",
+        "url": "https://www.jean-michel-basquiat.org/skull/",
+        "image": "/src/assets/basquiat-2.jpg",
+        "description": "This piece, which remained untitled, but many still refer to simply as 'Skull', is likely inspired by this key moment in his history. It was created in 1981 when Basquiat was merely twenty and is an example of Basquiat's early canvas-based work."
       },
       {
-        "id": 11,
-        "name": "Untitled",
-        "url": "https://arts.google.com/arts?id",
-        "image": "/src/assets/basquiat-1.jpg",
-        "description": "...",
-        "color": "#D9B504"
+        "name": "Trumpet",
+        "url": "https://www.jean-michel-basquiat.org/trumpet/",
+        "image": "/src/assets/basquiat-3.jpg",
+        "description": "The bright striking colours, the stick-figures, the references to historical figures and occurrences, the signature writing of words and poetry and having them crossed out; not to forget his love of Jazz. 'Trumpet' was the work of Basquiat in his element."
       },
       {
-        "id": 11,
-        "name": "Untitled",
-        "url": "https://arts.google.com/arts?id",
-        "image": "/src/assets/basquiat-1.jpg",
-        "description": "...",
-        "color": "#D9B504"
+        "name": "Obnoxious Liberals",
+        "url": "https://www.jean-michel-basquiat.org/obnoxious-liberals/",
+        "image": "/src/assets/basquiat-4.jpg",
+        "description": "As the title suggests, Obnoxious Liberals depicts a series of figures representing capitalism and its hapless, powerless victims. The exploited, corroded victim, on the one hand, is virtually held hostage by the minions of mainstream White American culture, as represented by dollar signs, cowboy hats and Uncle Sam top hats as well as a 'Not For Sale' sign. The victim's dark skin also hints at the systematic oppression of African-Americans."
       },
       {
-        "id": 11,
-        "name": "Untitled",
-        "url": "https://arts.google.com/arts?id",
-        "image": "/src/assets/basquiat-1.jpg",
-        "description": "...",
-        "color": "#D9B504"
+        "name": "King Alphonso",
+        "url": "https://www.jean-michel-basquiat.org/king-alphonso/",
+        "image": "/src/assets/basquiat-5.jpg",
+        "description": "Originally designed using acrylic and charcoal on paper for his series “The Daros Suite”, this explosive artwork employs many of the elements typically found in the work of Basquiat: a three-pointed crown, schematic, abstract representations accompanied by an enigmatic text and the predominance of the king's head — representing the triumph of thought and intellect over physical prowess — over the other elements in the frame."
       }
     ]
   },
   {
-    "id": 2,
-    "name": "Ocean",
+    "name": "Frank Ocean",
     "color": "#447647",
     "full_name": "Christopher 'Frank Ocean' Breaux",
     "birthplace": "New York, US",
     "birthdate": "New York, US",
     "image": "/src/assets/ocean.jpeg",
     "highlight": "/src/assets/ocean-highlight.png",
-    "description": "...",
+    "description": "Ocean is a singer and rapper. In 2011, he released his first mixtape, Nostalgia, Ultra. His first studio album, the eclectic Channel Orange (2012) that at the 2013 Grammy Awards, was nominated for Album of the Year and won Best Urban Contemporary Album. He was named by Time as one of the world's most influential people in 2013. In 2016 released a visual album titled Endless in 2016 and self-released his third album, Blonde, a day after Endless's release. Blonde expanded on Ocean's experimental musical approach and ranked first on Pitchfork's list of the best albums of the 2010s decade. ",
     "arts": [
       {
-        "id": 11,
-        "name": "Baschiat",
-        "url": "https://arts.google.com/arts?id",
-        "image": "http://i.ytimg.com/vi/Baschiat",
-        "description": "..."
+        "name": "Blonde",
+        "url": "https://blonded.ffm.to/blonde",
+        "image": "/src/assets/ocean-1.jpeg",
+        "description": "Blonde can therefore be seen as a reflection of Frank’s younger years, detailing his innocence and purity and loss thereof, making the album play out as more autobiographical than any of his previous works. Songs such as “Pink + White” and “Ivy” recall Ocean’s coming-of-age through the use of vocal pitching. The second interpretation is the symbolism of blonde hair; blondes are considered to be thoughtless and carefree. In a Tumblr post on the album, Frank stated that he drew inspiration from a picture of a blonde child in the back of a car. "
       },
       {
-        "id": 11,
-        "name": "Baschiat",
-        "url": "https://arts.google.com/arts?id",
-        "image": "http://i.ytimg.com/vi/Baschiat",
-        "description": "..."
+        "name": "Endless",
+        "url": "https://music.apple.com/us/music-video/endless/1143705097",
+        "image": "/src/assets/ocean-2.jpg",
+        "description": "Endless originally began as a live stream on Frank’s official website, boysdontcry.co on August 1st, 2016. The live stream, which alternated from live to offline over the course of 19 days, featured a focused Frank Ocean who appeared to be constructing something. This was later revealed to be a spiral staircase which artist Tom Sachs, who helped facilitate the project, refers to as the “Stairway to Heaven.”"
+      },
+      {
+        "name": "Boys don't cry",
+        "url": "https://genius.com/albums/Frank-ocean/Boys-don-t-cry-magazine",
+        "image": "/src/assets/ocean-3.jpg",
+        "description": "Throughout, Boys Don’t Cry is littered with typical Frank Ocean signifiers including philosophical meanderings and photos of cars – his obsession with them has been prominent throughout his whole career. Further visual contributions come from Dutch art photographer Viviane Sassen, illustrator Daniel David Freeman, and the legendary Wolfgang Tillmans, who also worked on the cover for Blonde."
+      },
+      {
+        "name": "Homer",
+        "url": "https://www.homer.com/",
+        "image": "/src/assets/ocean-4.jpeg",
+        "description": "Homer is an independent American luxury company founded by Frank Ocean. First up from Homer is a selection of Italian-made jewelry and silk scarves. The latter is comprised of '18K gold, recycled sterling silver, and hand-painted enamel' with diamonds that 'come from Homer’s state-of-the-art lab in America.'"
+      },
+      {
+        "name": "Nikes",
+        "url": "https://vimeo.com/179791907",
+        "image": "/src/assets/ocean-5.png",
+        "description": "“Nikes” is a critique of the trappings of materialistic hedonism, with a frequent mention of Nike shoes, shiny gold and glitter, and fantasies of pleasure. The video version of this song features two competing voices (the album version does not), adding a sense of tension and conflict to the otherwise dreamy music."
       }
     ]
   }
