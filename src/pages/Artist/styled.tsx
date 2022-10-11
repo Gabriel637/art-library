@@ -48,6 +48,7 @@ export const ArtistInfo = styled.div`
   text-align: center;
   flex-direction: column;
   gap: 10px;
+  width: 100%;
 `;
 
 export const InfoItem = styled.span`

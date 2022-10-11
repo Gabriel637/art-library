@@ -5,14 +5,12 @@ export const Container = styled.div`
   height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-around;
   flex-direction: column;
   background-color: black;
 `;
 
 export const TitleContainer = styled.div`
-  position: absolute;
-  top: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -47,18 +45,23 @@ export const ArtContainer = styled.div`
   gap: 50px;
 `;
 
-export const ArtImage = styled.img``;
+export const ArtImage = styled.img`
+  max-width: 500px;
+  max-height: 500px;
+`;
 
 export const ArtInfo = styled.div`
   display: flex;
-  text-align: center;
+  align-items: center;
   flex-direction: column;
-  gap: 10px;
+  gap: 20px;
 `;
 
 export const InfoDesc = styled.span`
   font-size: 14px;
   color: #ffffff;
+  width: 50%;
+  text-align: center;
 `;
 
 export const LinkItem = styled.span`

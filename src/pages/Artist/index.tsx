@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import {
   Container,
@@ -16,23 +16,16 @@ import data from '../../assets/data.json';
 
 const Artist = () => {
   const params = useParams();
-  const [artist, setArtist] = useState<IArtist>({
-    id: 0,
-    name: '',
-    full_name: '',
-    color: '',
-    birthplace: '',
-    birthdate: '',
-    image: '',
-    highlight: '',
-    description: '',
-    arts: [],
-  });
+  const [artist, setArtist] = useState<IArtist>();
 
   useEffect(() => {
     const currentArtist = data.find((item) => item.name === params.name) as IArtist;
     setArtist(currentArtist);
   }, [params.name]);
+
+  if (artist === undefined) {
+    return <>404</>;
+  }
 
   return (
     <Container>
