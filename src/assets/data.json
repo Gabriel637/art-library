@@ -46,10 +46,10 @@
     "color": "#447647",
     "full_name": "Christopher 'Frank Ocean' Breaux",
     "birthplace": "New York, US",
-    "birthdate": "New York, US",
+    "birthdate": "10/28/1987",
     "image": "/src/assets/ocean.jpeg",
     "highlight": "/src/assets/ocean-highlight.png",
-    "description": "Ocean is a singer and rapper. In 2011, he released his first mixtape, Nostalgia, Ultra. His first studio album, the eclectic Channel Orange (2012) that at the 2013 Grammy Awards, was nominated for Album of the Year and won Best Urban Contemporary Album. He was named by Time as one of the world's most influential people in 2013. In 2016 released a visual album titled Endless in 2016 and self-released his third album, Blonde, a day after Endless's release. Blonde expanded on Ocean's experimental musical approach and ranked first on Pitchfork's list of the best albums of the 2010s decade. ",
+    "description": "Ocean is a singer and rapper. In 2011, he released his first mixtape, Nostalgia, Ultra. His first studio album, the eclectic Channel Orange (2012) that at the 2013 Grammy Awards, won Best Urban Contemporary Album. In 2016 released a visual album titled Endless in 2016 and self-released his third album, Blonde, a day after Endless's release. Blonde expanded on Ocean's experimental musical approach and ranked first on Pitchfork's list of the best albums of the 2010s decade. ",
     "arts": [
       {
         "name": "Blonde",
@@ -80,6 +80,48 @@
         "url": "https://vimeo.com/179791907",
         "image": "/src/assets/ocean-5.png",
         "description": "“Nikes” is a critique of the trappings of materialistic hedonism, with a frequent mention of Nike shoes, shiny gold and glitter, and fantasies of pleasure. The video version of this song features two competing voices (the album version does not), adding a sense of tension and conflict to the otherwise dreamy music."
+      }
+    ]
+  },
+  {
+    "name": "A$AP Rocky",
+    "color": "#F2D800",
+    "full_name": "Rakim Athelaston Mayers",
+    "birthplace": "New York, US",
+    "birthdate": "10/03/1988",
+    "image": "/src/assets/rocky.jpg",
+    "highlight": "/src/assets/rocky-highlight.jpg",
+    "description": "Born and raised in Harlem, he embarked on his musical career as a member of the hip hop collective ASAP Mob, from which he adopted his moniker. Rocky has won a BET Award, two BET Hip Hop Awards, an MTV Video Music Award Japan and an MTVU Woodie Award, as well as being nominated for two Grammy Awards, six World Music Awards, three MTV Video Music Awards and two MTV Europe Music Awards. Rocky has also directed music videos for himself, Danny Brown, and other A$AP Mob members.",
+    "arts": [
+      {
+        "name": "Testing",
+        "url": "https://tstng.co/music.html",
+        "image": "/src/assets/rocky-1.jpg",
+        "description": "The album proves to be one of Rocky’s most versatile. Just like its selection of samples, TESTING plays host to a far-reaching list of contributors. The most unexpected guests include FKA twigs and MGMT, who both help to make “Fukk Sleep” the waking-dream of a space-trap cut that it is. Elsewhere, Dev Hynes adds his nostalgic-R&B Blood Orange vibe to “Hund43d.” A range of musical styles and genres have been achieved on this album, truly living up to its title."
+      },
+      {
+        "name": "Yamborghini High",
+        "url": "https://youtu.be/tt7gP_IW-1w",
+        "image": "/src/assets/rocky-2.png",
+        "description": "A$AP Mob seize the day and get “Yamborghini High” in honor of their late mastermind, A$AP Yams. Yams founded the Mob with A$AP Bari and A$AP Illz in 2006, managed its label, A$AP Worldwide, and handled A&R and executive production. In January 2015, Yams passed away at the age of 26. The death was ruled an accidental mixed-drug overdose—the coroner found opiates and Xanax in Yams’ system.Rocky told the New York Times: “Yams always had a struggle with drugs. That was his thing.” The summer before he died, Rocky and the Mob put Yams in rehab—but he didn’t stay sober for long."
+      },
+      {
+        "name": "DIOR",
+        "url": "https://hypebeast.com/2017/1/asap-rocky-boy-george-rami-malek-dior-2017-summer-ad-campaign",
+        "image": "/src/assets/rocky-3.jpg",
+        "description": "For the Summer 2017 season, Kris Van Assche has appointed a new generation of inspired characters to channel the dynamic energy of his Dior Homme vision. The international cast of four distinct characters sees the return of American rapper A$ap Rocky, a different chapter of music history with British new romantics "
+      },
+      {
+        "name": "D.M.B",
+        "url": "https://youtu.be/0NzlbBmkM3E",
+        "image": "/src/assets/rocky-4.jpg",
+        "description": "On “D.M.B.” (also stylized as DAT$ MAH B!*$H), A$AP Rocky utilizes chopped-and-screwed vocals to declare his love for drugs and women. The video ends with a celebration as the couple walks down a corridor filled with friends and rose petals for a wedding celebration."
+      },
+      {
+        "name": "AWGE",
+        "url": "https://awge.com/",
+        "image": "/src/assets/rocky-5.jpg",
+        "description": "AWGE: A creative agency founded by A$AP Rocky. Rules: #1 Never reveal what AWGE means. #2 When in doubt always refer to rule #1. 'It's a place for all inspired people born in 2014 to create authentic connectivity, solutions and content for music, fashion, film / TV and lifestyle industries'."
       }
     ]
   }

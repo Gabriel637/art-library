@@ -10,6 +10,7 @@ export const Container = styled.div`
   flex-direction: column;
   background-color: black;
   padding: 20px 0;
+  gap: 30px;
 `;
 
 export const Content = styled.div`
