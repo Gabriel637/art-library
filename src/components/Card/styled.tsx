@@ -32,9 +32,11 @@ export const Title = styled.h1`
   position: absolute;
   text-transform: uppercase;
   font-family: 'Amatic SC';
+  font-size: 26px;
   bottom: 0;
   margin-bottom: 0;
   background-color: #000000;
+  border: 1px solid #000000;
   width: 100%;
   text-align: center;
 `;

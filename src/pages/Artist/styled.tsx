@@ -36,10 +36,10 @@ export const ArtistContainer = styled.div`
   flex-direction: column;
   align-items: center;
   gap: 50px;
+  margin: 20px 0;
 
   @media ${devices.desktop} {
     width: 60%;
-    height: 250px;
     flex-direction: row;
   }
 `;
@@ -57,7 +57,6 @@ export const ArtistImage = styled.img`
 `;
 
 export const ArtistInfo = styled.div`
-  max-height: 300px;
   display: flex;
   text-align: center;
   flex-direction: column;
