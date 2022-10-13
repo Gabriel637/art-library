@@ -12,7 +12,8 @@
     "format:ts": "prettier --write 'src/**/*.{ts,tsx}' && yarn lint:eslint --fix",
     "format": "yarn run format:ts",
     "format:check": "prettier -c 'src/**/*.{ts,tsx}'",
-    "test": "jest"
+    "test": "jest",
+    "coverage": "jest --coverage"
   },
   "dependencies": {
     "@ant-design/icons": "^4.7.0",

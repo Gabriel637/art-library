@@ -1,4 +1,5 @@
 export interface IArt {
+  id: number;
   name: string;
   url: string;
   image: string;
@@ -6,6 +7,7 @@ export interface IArt {
 }
 
 export interface IArtist {
+  id: number;
   name: string;
   full_name: string;
   color?: string;
