@@ -44,7 +44,7 @@ const Artist = () => {
         {artist.arts && artist.arts.length > 0 && (
           <Content>
             {artist.arts.map((art: IArt) => (
-              <Link to={`${art.name}`}>
+              <Link to={`${art.name}`} key={art.id}>
                 <Card name={art.name} image={art.image} />
               </Link>
             ))}

@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "name": "Basquiat",
     "full_name": "Jean-Michel Basquiat",
     "color": "#D9B504",
@@ -10,30 +11,35 @@
     "description": "Basquiat first achieved fame as part of the graffiti duo SAMO, alongside Al Diaz, writing enigmatic epigrams in the cultural hotbed of Manhattan's Lower East Side during the late 1970s, where rap, punk, and street art coalesced into early hip-hop music culture. At 21, Basquiat became the youngest artist to ever take part in documenta in Kassel. At 22, he was one of the youngest to exhibit at the Whitney Biennial in New York.",
     "arts": [
       {
+        "id": 11,
         "name": "Untitled II",
         "url": "https://www.jean-michel-basquiat.org/untitled-ii-1982/",
         "image": "/src/assets/basquiat-1.jpg",
         "description": "An acrylic painting on canvas painting that Jean-Michel Basquiat did in 1982. The American painter later sold the artwork to a Japanese billionaire called YusakuMaezawa at a whopping $110.5 million. Today, the painting is held on loan at the Brooklyn Museum and displayed at the Seattle Museum."
       },
       {
+        "id": 12,
         "name": "Skull",
         "url": "https://www.jean-michel-basquiat.org/skull/",
         "image": "/src/assets/basquiat-2.jpg",
         "description": "This piece, which remained untitled, but many still refer to simply as 'Skull', is likely inspired by this key moment in his history. It was created in 1981 when Basquiat was merely twenty and is an example of Basquiat's early canvas-based work."
       },
       {
+        "id": 13,
         "name": "Trumpet",
         "url": "https://www.jean-michel-basquiat.org/trumpet/",
         "image": "/src/assets/basquiat-3.jpg",
         "description": "The bright striking colours, the stick-figures, the references to historical figures and occurrences, the signature writing of words and poetry and having them crossed out; not to forget his love of Jazz. 'Trumpet' was the work of Basquiat in his element."
       },
       {
+        "id": 14,
         "name": "Obnoxious Liberals",
         "url": "https://www.jean-michel-basquiat.org/obnoxious-liberals/",
         "image": "/src/assets/basquiat-4.jpg",
         "description": "As the title suggests, Obnoxious Liberals depicts a series of figures representing capitalism and its hapless, powerless victims. The exploited, corroded victim, on the one hand, is virtually held hostage by the minions of mainstream White American culture, as represented by dollar signs, cowboy hats and Uncle Sam top hats as well as a 'Not For Sale' sign. The victim's dark skin also hints at the systematic oppression of African-Americans."
       },
       {
+        "id": 15,
         "name": "King Alphonso",
         "url": "https://www.jean-michel-basquiat.org/king-alphonso/",
         "image": "/src/assets/basquiat-5.jpg",
@@ -42,6 +48,7 @@
     ]
   },
   {
+    "id": 2,
     "name": "Frank Ocean",
     "color": "#447647",
     "full_name": "Christopher 'Frank Ocean' Breaux",
@@ -52,30 +59,35 @@
     "description": "Ocean is a singer and rapper. In 2011, he released his first mixtape, Nostalgia, Ultra. His first studio album, the eclectic Channel Orange (2012) that at the 2013 Grammy Awards, won Best Urban Contemporary Album. In 2016 released a visual album titled Endless in 2016 and self-released his third album, Blonde, a day after Endless's release. Blonde expanded on Ocean's experimental musical approach and ranked first on Pitchfork's list of the best albums of the 2010s decade. ",
     "arts": [
       {
+        "id": 21,
         "name": "Blonde",
         "url": "https://blonded.ffm.to/blonde",
         "image": "/src/assets/ocean-1.jpeg",
         "description": "Blonde can therefore be seen as a reflection of Frank’s younger years, detailing his innocence and purity and loss thereof, making the album play out as more autobiographical than any of his previous works. Songs such as “Pink + White” and “Ivy” recall Ocean’s coming-of-age through the use of vocal pitching. The second interpretation is the symbolism of blonde hair; blondes are considered to be thoughtless and carefree. In a Tumblr post on the album, Frank stated that he drew inspiration from a picture of a blonde child in the back of a car. "
       },
       {
+        "id": 22,
         "name": "Endless",
         "url": "https://music.apple.com/us/music-video/endless/1143705097",
         "image": "/src/assets/ocean-2.jpg",
         "description": "Endless originally began as a live stream on Frank’s official website, boysdontcry.co on August 1st, 2016. The live stream, which alternated from live to offline over the course of 19 days, featured a focused Frank Ocean who appeared to be constructing something. This was later revealed to be a spiral staircase which artist Tom Sachs, who helped facilitate the project, refers to as the “Stairway to Heaven.”"
       },
       {
+        "id": 23,
         "name": "Boys don't cry",
         "url": "https://genius.com/albums/Frank-ocean/Boys-don-t-cry-magazine",
         "image": "/src/assets/ocean-3.jpg",
         "description": "Throughout, Boys Don’t Cry is littered with typical Frank Ocean signifiers including philosophical meanderings and photos of cars – his obsession with them has been prominent throughout his whole career. Further visual contributions come from Dutch art photographer Viviane Sassen, illustrator Daniel David Freeman, and the legendary Wolfgang Tillmans, who also worked on the cover for Blonde."
       },
       {
+        "id": 24,
         "name": "Homer",
         "url": "https://www.homer.com/",
         "image": "/src/assets/ocean-4.jpeg",
         "description": "Homer is an independent American luxury company founded by Frank Ocean. First up from Homer is a selection of Italian-made jewelry and silk scarves. The latter is comprised of '18K gold, recycled sterling silver, and hand-painted enamel' with diamonds that 'come from Homer’s state-of-the-art lab in America.'"
       },
       {
+        "id": 25,
         "name": "Nikes",
         "url": "https://vimeo.com/179791907",
         "image": "/src/assets/ocean-5.png",
@@ -84,6 +96,7 @@
     ]
   },
   {
+    "id": 3,
     "name": "A$AP Rocky",
     "color": "#F2D800",
     "full_name": "Rakim Athelaston Mayers",
@@ -94,30 +107,35 @@
     "description": "Born and raised in Harlem, he embarked on his musical career as a member of the hip hop collective ASAP Mob, from which he adopted his moniker. Rocky has won a BET Award, two BET Hip Hop Awards, an MTV Video Music Award Japan and an MTVU Woodie Award, as well as being nominated for two Grammy Awards, six World Music Awards, three MTV Video Music Awards and two MTV Europe Music Awards. Rocky has also directed music videos for himself, Danny Brown, and other A$AP Mob members.",
     "arts": [
       {
+        "id": 31,
         "name": "Testing",
         "url": "https://tstng.co/music.html",
         "image": "/src/assets/rocky-1.jpg",
         "description": "The album proves to be one of Rocky’s most versatile. Just like its selection of samples, TESTING plays host to a far-reaching list of contributors. The most unexpected guests include FKA twigs and MGMT, who both help to make “Fukk Sleep” the waking-dream of a space-trap cut that it is. Elsewhere, Dev Hynes adds his nostalgic-R&B Blood Orange vibe to “Hund43d.” A range of musical styles and genres have been achieved on this album, truly living up to its title."
       },
       {
+        "id": 32,
         "name": "Yamborghini High",
         "url": "https://youtu.be/tt7gP_IW-1w",
         "image": "/src/assets/rocky-2.png",
         "description": "A$AP Mob seize the day and get “Yamborghini High” in honor of their late mastermind, A$AP Yams. Yams founded the Mob with A$AP Bari and A$AP Illz in 2006, managed its label, A$AP Worldwide, and handled A&R and executive production. In January 2015, Yams passed away at the age of 26. The death was ruled an accidental mixed-drug overdose—the coroner found opiates and Xanax in Yams’ system.Rocky told the New York Times: “Yams always had a struggle with drugs. That was his thing.” The summer before he died, Rocky and the Mob put Yams in rehab—but he didn’t stay sober for long."
       },
       {
+        "id": 33,
         "name": "DIOR",
         "url": "https://hypebeast.com/2017/1/asap-rocky-boy-george-rami-malek-dior-2017-summer-ad-campaign",
         "image": "/src/assets/rocky-3.jpg",
         "description": "For the Summer 2017 season, Kris Van Assche has appointed a new generation of inspired characters to channel the dynamic energy of his Dior Homme vision. The international cast of four distinct characters sees the return of American rapper A$ap Rocky, a different chapter of music history with British new romantics "
       },
       {
+        "id": 34,
         "name": "D.M.B",
         "url": "https://youtu.be/0NzlbBmkM3E",
         "image": "/src/assets/rocky-4.jpg",
         "description": "On “D.M.B.” (also stylized as DAT$ MAH B!*$H), A$AP Rocky utilizes chopped-and-screwed vocals to declare his love for drugs and women. The video ends with a celebration as the couple walks down a corridor filled with friends and rose petals for a wedding celebration."
       },
       {
+        "id": 35,
         "name": "AWGE",
         "url": "https://awge.com/",
         "image": "/src/assets/rocky-5.jpg",
@@ -126,6 +144,7 @@
     ]
   },
   {
+    "id": 4,
     "name": "Rihanna",
     "color": "#C91E29",
     "full_name": "Robyn Rihanna Fenty",
@@ -136,30 +155,35 @@
     "description": "Aside from music, Rihanna is known for her involvement in humanitarian causes, entrepreneurial ventures, and the fashion industry. She is the founder of the nonprofit organisation Clara Lionel Foundation, cosmetics brand Fenty Beauty, and the first black woman to head a luxury brand for LVMH. Rihanna has also ventured into acting, appearing in major roles in Battleship, Home, Valerian and the City of a Thousand Planets, and Ocean's 8. She was declared a National Hero of Barbados on the first day of the country's parliamentary republic in 2021, entitling her to the style of 'The Right Excellent' for life.",
     "arts": [
       {
+        "id": 41,
         "name": "ANTI",
         "url": "https://rihanna.com/music/anti/",
         "image": "/src/assets/rihanna-1.jpg",
         "description": "Conceived when Rihanna was experiencing creative struggles and emotional turmoil, Anti features an atmospheric production characterised by lo-fi beats, distorted vocals and downtempo arrangements. The first half consists of bass-heavy tracks, and the second is characterised by textured minimalism. Anti is an alternative R&B, pop and dancehall album, more muted and soulful. Its songs explore eclectic styles spanning hip hop, soul, psychedelic, doo-wop, country, synth-rock and trap."
       },
       {
+        "id": 42,
         "name": "Fenty",
         "url": "https://youtu.be/tt7gP_IW-1w",
         "image": "/src/assets/rihanna-2.jpg",
         "description": "Fenty (stylised as FEИTY) was a fashion house founded by Rihanna under the luxury fashion group LVMH (Moët Hennessy Louis Vuitton). Fenty was founded in 2017[1] and launched in May 2019.[2] The fashion label made Rihanna the first woman and also the first of colour to be added on the LVMH group.[3] Fenty was closed in 2021."
       },
       {
+        "id": 43,
         "name": "Fenty Beauty",
         "url": "https://fentybeauty.com/",
         "image": "/src/assets/rihanna-3.jpg",
         "description": "Rihanna was inspired to create Fenty Beauty & Fenty Skin after years of experimenting with the best-of-the-best in beauty—and still seeing a void in the industry for products that performed across all skin types and tones. Starting with Fenty Beauty foundation, face primer and Gloss Bomb, she launched a makeup line “so that people everywhere would be included,” focusing on a wide range of traditionally hard-to-match skin tones, creating formulas that work for all skin types, and pinpointing universal shades."
       },
       {
+        "id": 44,
         "name": "Guava Island",
         "url": "https://www.primevideo.com/dp/amzn1.dv.gti.80b4f9ca-e99c-3a02-d796-0ef870f2335d?autoplay=0&ref_=atv_cf_strg_wb",
         "image": "/src/assets/rihanna-4.jpg",
         "description": "Guava Island is a 2019 American musical film directed by Hiro Murai (his feature directorial debut) with a screenplay by Stephen Glover from a story by Donald Glover, Stephen Glover, Ibra Ake, Jamal Olori and Fam Udeorji. It stars Donald Glover and Rihanna in the lead roles of Deni and Kofi, respectively, and was first exhibited at the Coachella Festival on April 11, 2019.[1] It was then released on April 13, 2019, by Amazon Studios through Amazon Prime Video for anyone to watch without a subscription for 18 hours before being available to Prime subscribers only."
       },
       {
+        "id": 45,
         "name": "Umbrella",
         "url": "https://www.youtube.com/watch?v=CvBfHwUxHIk&ab_channel=RihannaVEVO",
         "image": "/src/assets/rihanna-5.jpg",
@@ -168,8 +192,9 @@
     ]
   },
   {
+    "id": 5,
     "name": "Childish Gambino",
-    "color": "#C91E29",
+    "color": "#094C92",
     "full_name": "Donald McKinley Glover Jr",
     "birthplace": "California, US",
     "birthdate": "09/25/1988",
@@ -178,30 +203,35 @@
     "description": "Also known by his stage name Childish Gambino, is an American actor, rapper, singer, writer, comedian, director, and producer. He portrayed college student Troy Barnes on the NBC sitcom Community. Glover has starred, created and occasionally directs the FX series Atlanta, that has won various accolades, including two Primetime Emmy Awards and two Golden Globe Awards. Following independently released albums and mixtapes, Glover  released his first studio album, Camp, in 2011. In 2013, he followed this with his second album, Because the Internet. Glover's third album, 'Awaken, My Love!' (2016), eventually earned him his first Grammy Award. In 2018, Glover released 'This Is America', which debuted at number-one on the Hot 100, and won four Grammy Awards",
     "arts": [
       {
+        "id": 51,
         "name": "Because The Internet",
         "url": "https://open.spotify.com/album/0oNWRFO5ENgSQbKXj5vD91",
         "image": "/src/assets/gambino-1.jpg",
         "description": "Because the Internet is the second studio album by American recording artist Donald Glover, under the stage name Childish Gambino. It was released on December 10, 2013, by Glassnote Records. The recording process began in 2012 and ended in October 2013. Recording primarily took place at a mansion owned by basketball player Chris Bosh, which Gambino rented. The album features guest appearances from Chance the Rapper, Jhené Aiko, and Azealia Banks, with production primarily handled by Gambino himself, Stefan Ponce, and Ludwig Göransson, among others. Gambino also released a short film titled Clapping for the Wrong Reasons and a 72-page screenplay to go along with the album in promotion of it."
       },
       {
+        "id": 52,
         "name": "Atlanta",
         "url": "https://www.fxnetworks.com/shows/atlanta",
         "image": "/src/assets/gambino-2.jpg",
         "description": "Atlanta is an American comedy-drama television series created by Donald Glover that premiered on September 6, 2016, on FX. The series centers on college dropout and music manager Earnest 'Earn' Marks (Glover) and rapper Paper Boi (Brian Tyree Henry) as they navigate a strange, seemingly otherworldly version of the Atlanta rap scene, examining racism, whiteness, existentialism and modern African-American culture through Afro-Surrealism. It also stars Lakeith Stanfield and Zazie Beetz."
       },
       {
+        "id": 53,
         "name": "Solo",
         "url": "https://www.disneyplus.com/video/e42a76aa-2805-43bf-81ec-d5a853b498d0",
         "image": "/src/assets/gambino-3.jpg",
         "description": "Solo: A Star Wars Story (also known simply as Solo) is a 2018 American space Western film centering on the Star Wars character Han Solo. Directed by Ron Howard, produced by Lucasfilm, and distributed by Walt Disney Studios Motion Pictures, it is the second Star Wars anthology film, following Rogue One (2016). Alden Ehrenreich stars as Solo, with Woody Harrelson, Emilia Clarke, Donald Glover, Thandiwe Newton, Phoebe Waller-Bridge, Joonas Suotamo and Paul Bettany. The film explores the early adventures of Han Solo and Chewbacca, who join a heist within the criminal underworld 10 years prior to the events of the original Star Wars."
       },
       {
+        "id": 54,
         "name": "Awaken, my love!",
         "url": "https://open.spotify.com/album/4Carzsnpd6yvuHZ49I0oz8",
         "image": "/src/assets/gambino-4.png",
         "description": "the third studio album by American recording artist Donald Glover, under his stage name Childish Gambino. It was released by Glassnote Records on December 2, 2016. Consisting of tracks being sung rather than rapped, its fusion of psychedelic soul, funk and R&B influences was considered a bold departure from the predominantly hip hop style of his prior work. The album was produced by Glover and his longtime collaborator, Ludwig Göransson.'Awaken, My Love!' received generally positive reviews from critics and debuted at number five on the US Billboard 200."
       },
       {
+        "id": 55,
         "name": "Community",
         "url": "https://www.netflix.com/watch/70155589?",
         "image": "/src/assets/gambino-5.jpg",
